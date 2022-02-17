@@ -1,5 +1,5 @@
 {
-  "name": "s3test",
+  "name": "s3gtest",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
@@ -10,7 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "aws-sdk": "^2.945.0",
-    "bcrypt": "^5.0.0",
+    "bcrypt": "^5.0.1",
     "body-parser": "^1.19.0",
     "cors": "^2.8.5",
     "dotenv": "^8.2.0",

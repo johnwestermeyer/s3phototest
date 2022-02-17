@@ -6,9 +6,6 @@ const Product = require('./models/Product')  // our product model.
 require("dotenv/config")                      // for using the environment variables that stores the confedential information.
 
 
-// uuid
-// s3 structure -> bucket_name/userId/image/uuid.png* 
-
 // creating the storage variable to upload the file and providing the destination folder, 
 // if nothing is provided in the callback it will get uploaded in main directory
 
